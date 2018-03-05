@@ -1,0 +1,8 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=6110DB60
+eax=0028CB50 ebx=00000000 ecx=00000000 edx=0028CB4F esi=0028CB50 edi=00000030
+ebp=0028C8D8 esp=0028C8CC program=C:\Users\Josh\Downloads\gamePKG-master\gamePKG-master\bin\make_self_npdrm.exe, pid 10552, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+0028C8D8  6110DB60  (0028CB50, 00000000, 00000030, 61118EDC)
+0028C938  004021E1  (0028CB30, 00000000, 0028CD39
